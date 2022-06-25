@@ -1,0 +1,1 @@
+En esta carpeta se encuentran los distintos archivos de Processing que se han usado para el seguimiento del proyecto. En este código, a diferencia de la aplicación simplificada, se realizan gráficas de los resultados y se pueden cambiar distintas variables como el rango de frecuencias para el barrido o el paso de frecuencia para cada medida, entre otras cosas.
