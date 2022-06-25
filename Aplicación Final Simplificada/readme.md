@@ -1,1 +1,1 @@
-En esta carpeta se encuentra el código utilizado para la aplicación simplificada desarrollada en Processing. Para la ejecución de la misma bastara con abrir uno de los archivos .pde y ejecutarlo.
+En esta carpeta se encuentra el código utilizado para la aplicación simplificada desarrollada en Processing. Para la ejecución de la misma bastara con abrir uno de los archivos .pde y ejecutarlo. Una vez ejecutado, se creará una carpeta llamada "Measurements" donde se almacenarán las medidas tomadas en la calibración o en el barrido de frecuencia.
