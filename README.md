@@ -21,3 +21,7 @@ import java.util.Date;
 <p>1. Lo primero será conectar la placa LantierBoard al ordenador, y encender el switch de la parte posterior de la caja. </p>
 <p>2. Seguidamente habrá que abrir el código de arduino y ejecutarlo. Esto tan solo hay que hacerlo una vez, ya que luego se almacena en el propio micoroprocesador.</p>
 <p>3. Finalmente, para ejecutar el código del seguimiento del proyecto o de la aplicación final y acceder a la interfaz gráfica, el proceso será el mismo. Tan solo será necesario abrir uno de los cuatro archivos de processing, y ejecutarlo, asegurandose que primero se hayan cumplido los dos primeros pasos, ya que sino no funcionará incuso si se hacen los pasos después. En este caso habra que cerrar el programa de Processing y volver a ejecutarlo tras cumplir estos pasos.</p>
+<p>A continuación se muestra un video de ejemplo con el proceso de ejecución, y el resultado que se debería obtener si se ha hecho correctamente.</p>
+
+
+<video source src="https://user-images.githubusercontent.com/98835194/175782156-a7945e83-2ab8-4b2b-9278-e3624a11dd5c.mp4" autoplay>
