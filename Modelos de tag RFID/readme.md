@@ -1,0 +1,1 @@
+En esta carpeta se encuentran todos los archivos .dxf de los distintos diseños que se han realizado para el tag chipless-RFID, tanto los impresos en sustrato de FR4, como los impresos en sustrato flexible.
